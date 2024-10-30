@@ -1,10 +1,10 @@
-#Funcionalidade:
+#Funcionalidade:#
   Programa em C++ que implementa três algoritmos de ordenação, o que são Bubble Sort, Selection Sort e Insertion Sort. O programa lê o vetor de inteiros que o usuário introduz e de acordo com seu tamanho é aplicado um dos algoritmos de ordenação. Para um vetor de até 20 valores é aplicado a ordenação Insertion Sort, já se o tamanho do vetor for de 21 a 30 é aplicado a ordenação Bubble Sort, entretanto se o vetor receber mais de 30 valores é aplicado a odenação Selection Sort.
 
-##Objetivo:
+##Objetivo:##
   Seu objetivo é demonstrar o uso de diferentes algoritmos de ordenção com base no tamanho do vetor, onde cada algoritmo possui características que o tornam mais adequado para determinadas situações de tamanho de dados.
 
-###Testes: 
+###Testes:### 
 **Insertion Sort**
 Entrada:
 854
